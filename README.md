@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning react<br><br>📫 How to reach me vikashuvi07@gmail.com<br><br>👨‍💻 All of my projects are available at https://www.figma.com/proto/h8WJcIU9jS7g79MqtAOKPA/Portfolio?page-id=0%3A1&node-id=2-2&starting-point-node-id=2%3A2&scaling=scale-down-width&mode=design&t=UVzsnPx5QscHTDSk-1<br><br>
+🌱 I’m currently learning react<br><br>📫 How to reach me vikashuvi07@gmail.com<br><br>👨‍💻 All of my projects are available at https://shorturl.at/ehrW0<br><br>
 
 
 ## 🌐 Socials:
