@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning react<br><br>📫 How to reach me vikashuvi07@gmail.com<br><br>👨‍💻 All of my projects are available at https://shorturl.at/ehrW0<br><br>
+🌱 I’m currently learning react<br><br>📫 How to reach me vikashuvi07@gmail.com<br><br>👨‍💻 All of my projects are available at https://vikashuvi.github.io/Portfolio/<br><br>
 
 
 ## 🌐 Socials:
