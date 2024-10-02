@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikash</h1>
 <h3 align="center">A passionate UX/UI designer and a frontend developer</h3>
 
-👨‍💻 All of my projects are available at [https://vikashuvi.github.io/Portfolio/](https://vikashuvi.pages.dev/)
+👨‍💻 All of my projects are available at [my portfolio](https://vikashuvi.pages.dev/)
 
 
 - 💬 Ask me about **UX and web designing**
