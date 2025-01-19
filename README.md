@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash</h1>
-<h3 align="center">A passionate UX/UI designer and Frontend Developer 🚀</h3>
+<h3 align="center">A passionate UX/UI Designer and Frontend Developer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Crafting+User-Centric+Designs;Transforming+Ideas+Into+Code;Exploring+Tech+Horizons" alt="Typing SVG" />
@@ -9,53 +9,70 @@
 
 ### 🌟 About Me
 
-- 🎨 **UX/UI Enthusiast** with a flair for crafting sleek and intuitive designs.
-- 💻 Currently diving deep into **React** and **Frontend Development**.
-- 🌱 Always learning and experimenting with **new tools & technologies**.
-- 💬 Ask me about **UX, Web Designing, and Frontend Development**.
-- 📫 Reach me at: **vikashuvi07@gmail.com**
+- 🎨 **UX/UI Designer** transforming concepts into intuitive user experiences.
+- 💻 **Frontend Developer** with expertise in React, Tailwind CSS, and modern web technologies.
+- 📚 Currently exploring **competitive programming** and advanced **React ecosystems**.
+- 🌱 Always open to learning new tools, frameworks, and technologies.
+- ✨ GDG KSRIET Lead for the 2024-25 chapter.
+- 🏆 Organizer of **Hack with GDSC**, a 24-hour hackathon in Namakkal District, and several other impactful events.
 
 ---
 
-### 🌐 My Portfolio
-👨‍💻 Explore my work at [My Portfolio](https://vikashuvi.pages.dev/)
+### 🌐 My Portfolio & Resume
+
+- 👨‍💻 Check out my work: [My Portfolio](https://vikashuvi.github.io/Portfolio/)  
+- 📄 [My Resume](https://vikashuvi.pages.dev/resume.pdf)  
 
 ---
 
-### 🚀 Languages & Tools
-<p align="center">
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-</p>
+### 🚀 Skills & Tools
+
+#### 💻 Programming & Development
+- **Frontend**: React, Vite.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5, CSS3  
+- **Backend**: Node.js, Strapi  
+- **Databases**: NeonDB, MongoDB, Firebase  
+- **Others**: Git, Axios, UUID, Clerk Authentication  
+
+#### 🎨 UX/UI Design
+- **Design Tools**: Figma, Framer  
+- **UX Expertise**: Wireframing, Prototyping, User-Centric Design  
+
+#### ☁️ Cloud & Other Tools
+- Google Cloud Platform (GCP)  
+- Deployment Platforms: Vercel, Netlify  
+
+---
+
+### 🌟 Notable Achievements
+- Created the **official website for GDSC WOW Tamilnadu**, a landmark event in Tamilnadu's GDSC history.  
+- Developed a **Hall Booking System** for my college using React and Firebase.  
+- Built a **Resume Builder Web App** featuring an ATS score evaluation system and modern UI.  
+- Organized **GDSC FEST '24**, the first international tech event in Namakkal District.  
+
+---
+
+### 📬 Get in Touch
+
+- 📫 Email: **vikashuvi07@gmail.com**  
+- 📱 Instagram: [hangersmenswear_sivagiri](https://www.instagram.com/hangersmenswear_sivagiri/)  
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikashuvi&show_icons=true&theme=radical" alt="vikashuvi" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashuvi&show_icons=true&locale=en&layout=compact" alt="vikashuvi" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashuvi&layout=compact&theme=radical" alt="vikashuvi" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikashuvi&show_icons=true&locale=en" alt="vikashuvi" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashuvi&theme=radical" alt="vikashuvi" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashuvi&" alt="vikashuvi" />
 </p>
 
 ---
 
-### 🌍 Connect with Me
-<p align="center">
-  <a href="mailto:vikashuvi07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/vikashuvi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/vikashuvi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+### ✨ Fun Fact
+"I love blending creativity with code, turning ideas into impactful designs and scalable applications."
