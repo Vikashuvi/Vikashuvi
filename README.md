@@ -8,7 +8,7 @@
 
 ### 🌟 About Me
 
-- 🔭 Currently working as a **Software Development Engineer** at **Spotswik**.
+- 🔭 Currently working as a **Software Development Engineer** at **SpotKwik**.
 - 🎨 Experienced **UX/UI Designer** with expertise in **React.js**, **Tailwind CSS**, and **Firebase**.
 - 🚀 Selected as the **Google Developer Groups On Campus Lead** for 2024-25 and served as the **Design Lead** for 2023-24.
 - 💡 Developed projects including a **Hall Booking System** and **AI Resume Builder** with technologies like React.js, Firebase, and Gemini API.
