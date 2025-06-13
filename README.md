@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vikashuvi&color=blueviolet)
 
-👋 Hi, I'm **Vikash Thirumurugan**, a pre-final year **B.E Computer Science and Engineering** student, **UX/UI Designer**, and **Full-Stack Developer** passionate about crafting scalable and user-centric solutions.
+👋 Hi, I'm **Vikash Thirumurugan**, a final year **B.E Computer Science and Engineering** student, **UX/UI Designer**, and **Full-Stack Developer** passionate about crafting scalable and user-centric solutions.
 
 ---
 
